@@ -1,7 +1,7 @@
 const Main = () => {
     return(
         <div>
-            <h1>here is where you can see me</h1>
+            <h1 className="main-h1">here is where you can see me</h1>
             <div 
             className="container"
             style={{
